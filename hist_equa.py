@@ -9,8 +9,6 @@ import librosa
 from librosa import display
 import math
 
-##fff
-
 my_path = '/home/jerry/plot_example/'
 file = '/media/iml/jerry/JapaneseBirdSound/1/01-Track-01.wav'
 
